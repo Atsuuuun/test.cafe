@@ -176,7 +176,7 @@ background-image: linear-gradient(#ffffff, #9a9a9a);
   background-repeat: no-repeat;
 }
 #home {
-  background-image: url(../images/main.jpg);
+  background-image: url(../main.jpg);
   background-blend-mode: darken;
   min-height: 100vh;
 }
@@ -187,7 +187,7 @@ background-image: linear-gradient(#ffffff, #9a9a9a);
 /* News
 ------------------------------- */
 #News {
-  background-image: url(../images/header.jpeg);
+  background-image: url(../header.jpeg);
   height: 400px;
   margin-bottom: 24px;
 }
@@ -302,7 +302,7 @@ aside p {
 /* Menu
 ------------------------------- */
 #Menu {
-  background-image: url(../images/menu-back.jpeg);
+  background-image: url(../menu-back.jpeg);
   height: 400px;
   margin-bottom: 24px;
 
