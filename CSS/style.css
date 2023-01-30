@@ -175,11 +175,6 @@ background-image: linear-gradient(#ffffff, #9a9a9a);
   background-position: center-top;
   background-repeat: no-repeat;
 }
-#home {
-  background-image: url(../main.jpg);
-  background-blend-mode: darken;
-  min-height: 100vh;
-}
 #home .page-title {
   text-transform: none;
 }
